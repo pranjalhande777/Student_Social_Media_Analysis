@@ -23,11 +23,11 @@ Our findings highlight a strong relationship between high social media use and l
 
 * Key Insights
 Topic	Insight
-Avg. Sleep	Only ~4.8 hours/day (very low!)
-Avg. Social Media Use	~3.5 hours/day
-Most Used Platform	Instagram
-Highest Student Count Location	India
-Relationship Status Effects	“Complicated” = lowest sleep
+1. Avg. Sleep	Only ~4.8 hours/day (very low!)
+2. Avg. Social Media Use	~3.5 hours/day
+3. Most Used Platform	Instagram
+4. Highest Student Count Location	India
+5. Relationship Status Effects	“Complicated” = lowest sleep
 
 
 Conclusion: Students with excessive screen time experience sleep deprivation, emotional stress, and potential academic impact
